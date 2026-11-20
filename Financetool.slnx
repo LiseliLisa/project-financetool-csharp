@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Financetool.Core/Financetool.Core.csproj" />
+  <Project Path="Financetool.Desktop/Financetool.Desktop.csproj" />
+</Solution>
